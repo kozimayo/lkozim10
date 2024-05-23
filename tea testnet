@@ -1,1 +1,3 @@
 tea testnet
+npx create-next-app@latest
+y
